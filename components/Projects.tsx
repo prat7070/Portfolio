@@ -83,15 +83,7 @@ export default function Projects() {
                   </span>
                 ))}
               </div>
-              {project.link && (
-                <a
-                  href={project.link}
-                  target="_blank"
-                  className="mt-4 inline-block text-sm text-violet-300 hover:text-violet-200"
-                >
-                  View Project →
-                </a>
-              )}
+              
             </article>
           ))}
         </div>
