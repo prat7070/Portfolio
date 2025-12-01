@@ -33,7 +33,7 @@ export default function Hero() {
           <div className="relative mx-auto h-80 w-80 max-w-xs rounded-3xl border border-violet-500/20 bg-gradient-to-tr from-violet-500/10 via-slate-900 to-emerald-500/10 p-[1px] shadow-xl">
             <div className="flex h-full w-full flex-col items-center justify-center rounded-3xl bg-black">
               <Image
-  src="/profile2.jpg"
+  src="/profile2.JPG"
   alt="Prathmesh Patil"
   width={160}
   height={160}
