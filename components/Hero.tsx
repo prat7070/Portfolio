@@ -29,7 +29,8 @@ export default function Hero() {
         </div>
 
         {/* RIGHT: CARD */}
-        <div className="mt-10 flex-1 md:mt-0 md:ml-auto">
+        <div className="mt-10 flex-1 md:mt-0 md:ml-auto ml-8">
+
           <div className="relative mx-auto h-80 w-80 max-w-xs rounded-3xl border border-violet-500/20 bg-gradient-to-tr from-violet-500/10 via-slate-900 to-emerald-500/10 p-[1px] shadow-xl">
             <div className="flex h-full w-full flex-col items-center justify-center rounded-3xl bg-black">
               <Image
