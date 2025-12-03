@@ -5,7 +5,7 @@ export default function Navbar() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-black/50 backdrop-blur-lg border-b border-white/10">
       <div className="mx-auto max-w-6xl flex items-center justify-between px-6 py-4">
         
-        {/* Logo / Name */}
+        {/* Name / Logo */}
         <a
           href="#"
           className="text-xl font-bold text-white tracking-wide hover:text-violet-400 transition"
@@ -14,11 +14,12 @@ export default function Navbar() {
         </a>
 
         {/* Navigation Links */}
-        <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-gray-300">
+        <nav className="hidden md:flex items-center gap-7 text-sm font-medium text-gray-300">
           <a href="#about" className="hover:text-white transition">About</a>
+          <a href="#achievements" className="hover:text-white transition">Achievements</a>
+          <a href="#experience" className="hover:text-white transition">Experience</a>
           <a href="#skills" className="hover:text-white transition">Skills</a>
           <a href="#projects" className="hover:text-white transition">Projects</a>
-          <a href="#experience" className="hover:text-white transition">Experience</a>
           <a href="#contact" className="hover:text-white transition">Contact</a>
           <a
             href="#resume"
@@ -27,7 +28,6 @@ export default function Navbar() {
             Resume
           </a>
         </nav>
-
       </div>
     </header>
   );
