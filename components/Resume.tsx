@@ -31,7 +31,7 @@ export default function Resume() {
               <span>Download My Resume</span>
             </div>
             <p className="mt-3 text-sm text-gray-300">
-              Choose the version that matches what you&apos;re looking for.
+              Download the resume version tailored to your interests.
             </p>
           </div>
 
@@ -62,9 +62,7 @@ export default function Resume() {
             ))}
           </div>
 
-          <p className="mt-6 text-center text-xs text-amber-300">
-            💡 Click any card to download instantly.
-          </p>
+          
         </div>
       </div>
     </section>
