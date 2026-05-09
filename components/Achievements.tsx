@@ -34,7 +34,7 @@ export default function Achievements() {
           <div className="rounded-3xl border border-sky-500/25 bg-gradient-to-br from-sky-700/20 to-slate-900/60 p-8 text-center shadow-xl backdrop-blur">
             <div className="text-3xl mb-4">✈️</div>
             <div className="text-2xl font-bold text-sky-400">DGCA Certified</div>
-            <div className="mt-2 text-sm text-gray-300">Remote Pilot License – Govt. of India</div>
+            <div className="mt-2 text-sm text-gray-300">Remote Pilot Certificate - Govt. of India</div>
           </div>
 
           <div className="rounded-3xl border border-amber-500/25 bg-gradient-to-br from-amber-700/20 to-slate-900/60 p-8 text-center shadow-xl backdrop-blur">
