@@ -15,7 +15,7 @@ const skills = [
   "Biomedical Electronics",
   "Raspberry Pi",
   "KiCAD",
-  "STM32Cube IDE"
+  "STM32Cube IDE",
   "DGCA Certified Pilot",
   "Defence Drone Systems",
   "3D Printing",
