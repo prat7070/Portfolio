@@ -19,7 +19,6 @@ const skills = [
   "DGCA Certified Pilot",
   "Defence Drone Systems",
   "3D Printing",
-  
 ];
 
 export default function Skills() {
