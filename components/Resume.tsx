@@ -3,7 +3,7 @@
 const resumes = [
   {
     label: "UAV",
-    file: "/ Prathmesh Resume UAV.pdf", // 👈 change to your real file name
+    file: "/Prathmesh Resume UAV.pdf", // 👈 change to your real file name
     icon: "🚀",
     accent:
       "border-blue-400/50 shadow-[0_0_40px_rgba(59,130,246,0.35)] from-blue-500/20",
