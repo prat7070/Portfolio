@@ -3,7 +3,7 @@
 const resumes = [
   {
     label: "UAV",
-    file: "/Resume Prathmesh UAV.pdf", // 👈 change to your real file name
+    file: "/ Prathmesh Resume UAV.pdf", // 👈 change to your real file name
     icon: "🚀",
     accent:
       "border-blue-400/50 shadow-[0_0_40px_rgba(59,130,246,0.35)] from-blue-500/20",
@@ -11,7 +11,7 @@ const resumes = [
   },
   {
     label: "Electronics",
-    file: "/Resume Prathmesh Electronics.pdf", // 👈 change to your real file name
+    file: "/Prathmesh Resume Electronics.pdf", // 👈 change to your real file name
     icon: "📄",
     accent:
       "border-emerald-400/50 shadow-[0_0_40px_rgba(16,185,129,0.35)] from-emerald-500/20",
