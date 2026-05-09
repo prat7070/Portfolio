@@ -13,7 +13,22 @@ export default function Experience() {
           My Professional Journey.
         </p>
 
-        <div className="mt-10 grid grid-cols-1 gap-8 md:grid-cols-2">
+        <div className="mt-10 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+
+          {/* Experience Card – Droneacharya */}
+          <div className="rounded-3xl border border-violet-500/20 bg-gradient-to-br from-violet-600/10 to-slate-900/20 p-8 shadow-xl hover:scale-[1.02] transition">
+
+            <h3 className="text-2xl font-bold text-violet-400">UAV Systems Intern</h3>
+            <p className="text-gray-300 mt-1 text-sm">Droneacharya Aerial Innovations Pvt. Ltd.</p>
+
+            <p className="text-gray-400 mt-1 text-xs italic">
+              Jan 2026 – Present
+            </p>
+
+            <p className="mt-4 text-gray-400 text-sm leading-relaxed">
+              Built and deployed 7&quot;, 10&quot; & 15&quot; multi-role drone platforms for the Indian Armed Forces (grenade-drop & 5 kg heavy-lift ~30 min), developed a tethered drone for ~12 hrs continuous flight, and contributed to agri-drone operations and 3D-printed custom components.
+            </p>
+          </div>
 
           {/* Experience Card 1 */}
           <div className="rounded-3xl border border-blue-500/20 bg-gradient-to-br from-blue-600/10 to-slate-900/20 p-8 shadow-xl hover:scale-[1.02] transition">

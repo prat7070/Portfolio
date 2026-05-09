@@ -12,7 +12,7 @@ export default function About() {
         </p>
         <p className="mt-6 max-w-4xl text-m sm:text-lg md:text-l lg:text-xl text-gray-300">
 
-          I&apos;m Prathmesh Patil, an Electronics & UAV Engineer driven by the challenge of creating high performance drones and intelligent electronic systems.I love transforming technical ideas into practical, user-friendly solutions through thoughtful design, precise engineering, and a strong focus on performance and reliability.
+          I&apos;m Prathmesh Patil, an Electronics & UAV Engineer currently building defence-grade drone systems at Droneacharya Aerial Innovations Pvt. Ltd. DGCA Certified Remote Pilot and IEEE-published researcher with a Best Paper Award at ICSFT 2026. I love transforming technical ideas into practical, high-performance solutions through precise engineering and a strong focus on reliability.
         </p>
       {/* Stats Boxes */}
         <div className="mt-10 grid grid-cols-1 gap-6 sm:grid-cols-2">

@@ -11,7 +11,7 @@ export default function Achievements() {
           Highlights at a glance.
         </p>
 
-        <div className="mt-10 grid grid-cols-1 gap-6 md:grid-cols-3">
+        <div className="mt-10 grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
           {/* Box 1 – Projects */}
           <div className="rounded-3xl border border-blue-500/25 bg-gradient-to-br from-blue-700/20 to-slate-900/60 p-8 text-center shadow-xl backdrop-blur">
             <div className="text-3xl mb-4">🎮</div>
@@ -33,6 +33,19 @@ export default function Achievements() {
             <div className="mt-2 text-sm text-gray-300">
               Internal SIH 2024
             </div>
+            {/* Box 4 – DGCA */}
+          <div className="rounded-3xl border border-sky-500/25 bg-gradient-to-br from-sky-700/20 to-slate-900/60 p-8 text-center shadow-xl backdrop-blur">
+            <div className="text-3xl mb-4">✈️</div>
+            <div className="text-2xl font-bold text-sky-400">DGCA Certified</div>
+            <div className="mt-2 text-sm text-gray-300">Remote Pilot License – Govt. of India</div>
+          </div>
+
+          {/* Box 5 – IEEE Best Paper */}
+          <div className="rounded-3xl border border-amber-500/25 bg-gradient-to-br from-amber-700/20 to-slate-900/60 p-8 text-center shadow-xl backdrop-blur">
+            <div className="text-3xl mb-4">📄</div>
+            <div className="text-2xl font-bold text-amber-400">Best Paper</div>
+            <div className="mt-2 text-sm text-gray-300">IEEE ICSFT 2026</div>
+          </div>
           </div>
         </div>
       </div>

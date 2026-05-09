@@ -2,6 +2,27 @@
 
 const projects = [
   {
+  title: "Defence Drone Series (7\" / 10\" / 15\")",
+  category: "UAV / Defence",
+  icon: "🪖",
+  description: "Multi-role UAV platforms built for the Indian Armed Forces. 7\" and 10\" variants for grenade-drop missions with precision payload release. 15\" heavy-lift platform carrying 5 kg for ~30 minutes of sustained flight.",
+  tech: ["Ardupilot", "Pixhawk", "Payload Release", "Mission Planner", "PID Tuning", "Defence Systems"],
+},
+{
+  title: "Tethered Drone System",
+  category: "UAV / Endurance",
+  icon: "🔌",
+  description: "Tethered UAV powered via wired ground supply achieving ~12 hours of continuous flight — eliminating battery swap downtime for long-duration surveillance and persistent aerial operations.",
+  tech: ["Tethered Power System", "Ardupilot", "Long-Endurance Flight", "Ground Station", "Stabilisation"],
+},
+{
+  title: "Smart Renewable Energy Management System",
+  category: "IoT / Research",
+  icon: "⚡",
+  description: "IEEE ICSFT 2026 Best Paper. IoT-based renewable energy management system with Over-The-Air (OTA) firmware update capability for remote monitoring, dynamic load balancing, and secure field deployment.",
+  tech: ["IoT", "OTA Updates", "Embedded Systems", "Energy Management", "IEEE Published"],
+},
+  {
     title: "Autonomous Quadcopter",
     category: "UAV / Autonomy",
     icon: "🛰️",
