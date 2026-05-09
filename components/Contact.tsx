@@ -26,7 +26,7 @@ export default function Contact() {
             <div className="flex flex-col items-center text-center text-white">
               <Mail size={34} className="text-cyan-300 mb-4" />
               <h3 className="text-xl font-semibold">Email</h3>
-              <p className="mt-2 text-gray-300 text-sm">psppsp2704@gmail.com</p>
+              <p className="mt-2 text-gray-300 text-sm">prathmeshpatil110804@gmail.com</p>
             </div>
           </a>
 
